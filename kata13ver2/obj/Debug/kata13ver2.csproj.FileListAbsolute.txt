@@ -1,0 +1,7 @@
+C:\Users\pjgon\Desktop\kata13ver2\obj\Debug\kata13ver2.csproj.AssemblyReference.cache
+C:\Users\pjgon\Desktop\kata13ver2\obj\Debug\kata13ver2.csproj.CoreCompileInputs.cache
+C:\Users\pjgon\Desktop\kata13ver2\bin\Debug\kata13ver2.exe.config
+C:\Users\pjgon\Desktop\kata13ver2\bin\Debug\kata13ver2.exe
+C:\Users\pjgon\Desktop\kata13ver2\bin\Debug\kata13ver2.pdb
+C:\Users\pjgon\Desktop\kata13ver2\obj\Debug\kata13ver2.exe
+C:\Users\pjgon\Desktop\kata13ver2\obj\Debug\kata13ver2.pdb
